@@ -3,3 +3,5 @@ An Sequential model is fit to the data with the aim to make predictions on wheth
 In this project I use the following libraries and toolkits: Scikit-learn, Natural Language Toolkit, Seaborn, Matplotlib, Numpy and  Pandas.
 
 We will be using a subset of the LendingClub DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
+
+PLEASE NOTE: The data cannot be uploaded to GitHub due to the file beign too large. 
