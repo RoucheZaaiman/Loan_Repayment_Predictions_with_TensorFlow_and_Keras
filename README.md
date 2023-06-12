@@ -1,4 +1,4 @@
-An Sequential model is fit to the data with the aim to prediction if a new customers are likely to repay his loan or not.  Data Analysis, Data Visualizations and Data Mining yield interesting and informative insights into the accounts that have been charged off and fully paid.
+A Sequential model is fit to the data with the aim to predict if a new customer is likely to repay his loan or not.  Data Analysis, Data Visualizations and Data Mining yield interesting and informative insights into the accounts that have been charged off and fully paid.
 
 In this project I use the following libraries and toolkits:TensorFlow, Keras, Scikit-learn, Seaborn, Matplotlib, Numpy and  Pandas.
 
