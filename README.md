@@ -1,7 +1,6 @@
-A Sequential model is fit to the data with the aim to predict if a new customer is likely to repay his loan or not.  Data Analysis, Data Visualizations and Data Mining yield interesting and informative insights into the accounts that have been charged off and fully paid.
+A Sequential model was trained to predict the likelihood of loan repayments for new customers and obtained an 89% accuracy rate. The project utilised the LendingClub dataset from Kaggle and involved extensive Data Analysis, Data Visualisation and Data Mining, which provided valuable insights into charged-off and fully paid accounts.
 
-In this project I use the following libraries and toolkits:TensorFlow, Keras, Scikit-learn, Seaborn, Matplotlib, Numpy and  Pandas.
+Libraries:  TensorFlow, Keras, Scikit-learn, Seaborn, Matplotlib, NumPy and Pandas. 
 
-We will be using a subset of the LendingClub DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
+LendingClub DataSet link: https://www.kaggle.com/wordsforthewise/lending-club
 
-PLEASE NOTE: The data cannot be uploaded to GitHub due to the file beign too large. 
